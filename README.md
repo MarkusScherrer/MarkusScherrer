@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkusScherrer
+- 👋 Hi, I’m @Markus Scherrer
 - 👀 I’m interested in geodetic reference systems, cadastral surveying and astronomy 
 - 🌱 I’m currently learning python and script-languages
 - 💞️ I’m looking to collaborate on ...
